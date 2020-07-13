@@ -1,0 +1,21 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  category: MyString
+  primary_color_scheme: MyString
+  style: MyString
+  title: MyString
+  img_url: MyString
+  blurb: MyString
+  long_Description: MyString
+  house_id: 1
+
+two:
+  category: MyString
+  primary_color_scheme: MyString
+  style: MyString
+  title: MyString
+  img_url: MyString
+  blurb: MyString
+  long_Description: MyString
+  house_id: 1
